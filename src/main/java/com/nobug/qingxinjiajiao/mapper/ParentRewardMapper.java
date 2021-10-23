@@ -5,8 +5,9 @@ import com.nobug.qingxinjiajiao.bean.ParentReward;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author oleolema
- * @create 2019-09-03 11:11
+ *
+ * @author li
+ * @create
  */
 @Repository
 public interface ParentRewardMapper extends BaseMapper<ParentReward> {

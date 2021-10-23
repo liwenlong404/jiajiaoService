@@ -1,11 +1,4 @@
-/**
- * FileName:   TeacherController
- * Author:     O了吗
- * Date:       2019/9/3 15:44
- * Description:
- * History:
- * author:     oleolema
- */
+
 package com.nobug.qingxinjiajiao.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
@@ -23,11 +16,9 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * 〈〉
  *
- * @author O了吗
- * @create 2019/9/3
- * @since 1.0.0
+ * @author li
+ * @create
  */
 @RestController
 @Slf4j

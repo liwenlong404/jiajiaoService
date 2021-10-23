@@ -1,11 +1,4 @@
-/**
- * FileName:   TeacherPro
- * Author:     O了吗
- * Date:       2019/9/3 11:35
- * Description:
- * History:
- * author:     oleolema
- */
+
 package com.nobug.qingxinjiajiao.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
@@ -19,11 +12,9 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * 〈〉
  *
- * @author O了吗
- * @create 2019/9/3
- * @since 1.0.0
+ * @author li
+ * @create
  */
 @RestController
 @Slf4j

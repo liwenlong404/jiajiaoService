@@ -5,8 +5,9 @@ import com.nobug.qingxinjiajiao.bean.Evaluate;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author oleolema
- * @create 2019-09-03 11:11
+ *
+ * @author li
+ * @create
  */
 @Repository
 public interface EvaluateMapper extends BaseMapper<Evaluate> {
